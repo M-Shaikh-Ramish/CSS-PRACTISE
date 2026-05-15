@@ -1,0 +1,28 @@
+h3{
+    color:yellow;
+}
+
+body{
+    background-color:#474647;
+}
+
+button{
+    color: rgb(0, 255, 0);
+    background-color: #ff0000;
+}
+#one{
+    color:chocolate;
+    background-color:#000000;
+}
+#two{
+    color:orange;
+    background-color:#000000;
+}
+#three{
+    color:green;
+    background-color:#000000;
+}
+.myclass{
+    color:purple;
+    background-color:pink;
+}
